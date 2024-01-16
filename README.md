@@ -3,7 +3,7 @@
 **PHP and Symfony web development**
 
 
-![Wikub Stats](https://github-readme-stats.vercel.app/api?username=wikub&include_all_commits=true&count_private=true&hide_border=true&show_icons=true)
+![Wikub Stats](https://github-readme-stats.vercel.app/api?username=wikub&include_all_commits=false&count_private=true&hide_border=true&show_icons=true)
 
 
 
